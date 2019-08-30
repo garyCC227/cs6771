@@ -1,0 +1,118 @@
+#work_start
+work fork form foam flam flay play
+work pork perk peak pean plan play 
+work pork perk peak peat plat play 
+work pork perk pert peat plat play 
+work pork porn pirn pian plan play 
+work pork port pert peat plat play 
+work word wood pood plod ploy play 
+work worm form foam flam flay play 
+work worn porn pirn pian plan play 
+work wort bort boat blat plat play 
+work wort port pert peat plat play 
+work wort wert pert peat plat play
+#work_end
+
+#con_start
+con can cat
+con cot cat
+#con_end
+
+#code_start
+code cade cate date data
+code cote cate date data 
+code cote dote date data
+#code_end
+
+#awake_start
+awake aware sware share sharn shawn shewn sheen sheep sleep
+awake aware sware share shire shirr shier sheer sheep sleep
+#awake_end
+
+#airplane_start
+No ladder found.
+#airplane_end
+
+#go_start
+go bo be oe of if
+go bo by oy of if 
+go do de oe of if 
+go ho he oe of if 
+go ho hm em ef if 
+go ho hm om of if 
+go mo me oe of if 
+go mo mm em ef if 
+go mo mm om of if 
+go mo my oy of if 
+go no ne oe of if 
+go so sh eh ef if 
+go so sh oh of if 
+go wo we oe of if
+#go_end
+
+#chi_start
+chi phi pht pat eat ear err erg egg ego
+chi phi pht pat par ear err erg egg ego 
+chi phi pht pat pas aas ads ado ago ego 
+chi phi pht pet pee pye aye age ago ego 
+chi phi pht pit ait act ace age ago ego 
+chi phi pht pit ait aid add ado ago ego 
+chi phi pht pit ait ais ads ado ago ego 
+chi phi pht pit ait alt ala aga ago ego 
+chi phi pht pit ait alt ale age ago ego 
+chi phi pht pit ait ant ana aga ago ego 
+chi phi pht pit ait ant ane age ago ego 
+chi phi pht pit ait apt ape age ago ego 
+chi phi pht pit ait art are age ago ego 
+chi phi pht pit pie pye aye age ago ego 
+chi phi pht pit pis ais ads ado ago ego 
+chi phi poi pox pyx pye aye age ago ego
+#chi_end
+
+#atom_start
+atom atop stop slop sloe aloe alae alas alts ants anti inti into unto unco unci unai unau
+atom atop stop slop sloe aloe alae alas anas ants anti inti into unto unco unci unai unau 
+atom atop stop slop sloe aloe alee ales alts ants anti inti into unto unco unci unai unau 
+atom atop stop slop sloe aloe alee ales anes ants anti inti into unto unco unci unai unau 
+atom atop stop slop sloe aloe alme alms alts ants anti inti into unto unco unci unai unau 
+atom atop stop step seep sees sets sits aits ants anti inti into unto unco unci unai unau 
+atom atop stop step seep sees sies sits aits ants anti inti into unto unco unci unai unau 
+atom atop stop stow snow know knew anew anes ants anti inti into unto unco unci unai unau 
+#atom_end
+
+#nylon_start
+nylon pylon pelon melon meson mason macon racon radon redon redos redds reads rears gears gnars gnarl snarl snail spail spait split uplit unlit unlet inlet islet isled idled idler iller
+nylon pylon pelon melon meson mason macon racon radon redon redos redds reads rears gears gnars gnarl snarl snail spail spait split uplit unlit unlet inlet islet isles idles idler iller 
+nylon pylon pelon melon meson mason macon racon radon redon redos redds reads rears sears spars spare spale spall spail spait split uplit unlit unlet inlet islet isled idled idler iller 
+nylon pylon pelon melon meson mason macon racon radon redon redos redds reads rears sears spars spare spale spall spail spait split uplit unlit unlet inlet islet isles idles idler iller 
+nylon pylon pelon melon meson mason macon racon radon redon redos redes rides sides sires siree spree sprue sprug sprig sprit split uplit unlit unlet inlet islet isled idled idler iller 
+nylon pylon pelon melon meson mason macon racon radon redon redos redes rides sides sires siree spree sprue sprug sprig sprit split uplit unlit unlet inlet islet isles idles idler iller 
+nylon pylon pelon melon meson mason macon racon recon redon redos redds reads rears gears gnars gnarl snarl snail spail spait split uplit unlit unlet inlet islet isled idled idler iller 
+nylon pylon pelon melon meson mason macon racon recon redon redos redds reads rears gears gnars gnarl snarl snail spail spait split uplit unlit unlet inlet islet isles idles idler iller 
+nylon pylon pelon melon meson mason macon racon recon redon redos redds reads rears sears spars spare spale spall spail spait split uplit unlit unlet inlet islet isled idled idler iller 
+nylon pylon pelon melon meson mason macon racon recon redon redos redds reads rears sears spars spare spale spall spail spait split uplit unlit unlet inlet islet isles idles idler iller 
+nylon pylon pelon melon meson mason macon racon recon redon redos redes rides sides sires siree spree sprue sprug sprig sprit split uplit unlit unlet inlet islet isled idled idler iller 
+nylon pylon pelon melon meson mason macon racon recon redon redos redes rides sides sires siree spree sprue sprug sprig sprit split uplit unlit unlet inlet islet isles idles idler iller 
+#nylon_end
+
+#decanting_start
+decanting recanting recasting retasting retesting revesting revetting reletting relenting relending remending remanding remanning remaining remailing retailing detailing derailing
+decanting recanting recasting retasting retesting revesting revetting reletting relenting relending remending remanding remanning remaining retaining detaining detailing derailing 
+decanting recanting recasting retasting retesting revesting revetting reletting relenting relending remending remanding remanning remaining retaining retailing detailing derailing 
+decanting recanting recasting retasting retesting revesting revetting resetting resenting resending remending remanding remanning remaining remailing retailing detailing derailing 
+decanting recanting recasting retasting retesting revesting revetting resetting resenting resending remending remanding remanning remaining retaining detaining detailing derailing 
+decanting recanting recasting retasting retesting revesting revetting resetting resenting resending remending remanding remanning remaining retaining retailing detailing derailing
+#decanting_end
+
+#triangles_start
+triangles triangles
+#triangles_end
+
+#blistering_start
+blistering blustering clustering cluttering clattering blattering blathering blithering slithering swithering
+blistering blustering clustering cluttering clattering blattering blathering slathering slithering swithering 
+blistering blustering flustering fluttering flattering blattering blathering blithering slithering swithering 
+blistering blustering flustering fluttering flattering blattering blathering slathering slithering swithering 
+blistering glistering glittering flittering flattering blattering blathering blithering slithering swithering 
+blistering glistering glittering flittering flattering blattering blathering slathering slithering swithering 
+#blistering_end
